@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{20BA3EB1-6534-4AED-B1ED-2463699E1E4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+    <Files>
+      <File FileName="Models/Eventos.cs" Line="13" Column="26" />
+      <File FileName="Data/dbEventosContext.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="14" Column="2" />
+      <File FileName="Migrations/20211206011721_InitialCreate.cs" Line="20" Column="17" />
+      <File FileName="Migrations/dbEventosContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Controllers/EventosController.cs" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="56" Column="1" />
+      <File FileName="Dockerfile" Line="3" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlantillaAppi" expanded="True">
+            <Node name="docker-compose" expanded="True" />
+            <Node name="PlantillaAppi" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlantillaAppi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

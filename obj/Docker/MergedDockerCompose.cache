@@ -1,0 +1,17 @@
+services:
+  plantillaappi:
+    build:
+      context: /Users/steven/Desktop/PlantillaAppi
+      dockerfile: ./Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: plantillaappi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose2170958871624597814_default
